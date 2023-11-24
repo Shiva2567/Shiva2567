@@ -1,0 +1,23 @@
+<?xml version="1.0"encoding="UTF-8"?
+<project version="4"?>
+<component name="Gradle migration settings"
+  migration vesrsion="1"/>
+<component name="Gradle settings">
+  <option name= "Lincled External projects settings">
+    <Gradle project settings>
+      <option name= =test Runner"values="GRADLE"/>
+        <option name="distribution ttpe" value="DEFAULTWRAPPED"/>
+        <option name=" external project path" value="$ project-DIR$"/>
+        <optin name=" modules">
+          <set>
+          <option value="$ PROJECT-DIR$"/>
+          <option value="$ PROJECT-DIR$/app"/>
+          </set>
+        </option>
+    </Gradle project settings>
+  </option>
+</component>
+</project>
+  
+              
+          
