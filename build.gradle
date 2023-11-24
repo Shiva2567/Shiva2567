@@ -1,0 +1,26 @@
+plugins   {
+  id  'com.andriod.application'
+}
+android {
+   compile sdk.33
+
+  defaultconfig {
+       application Id"net.penguincoders.doit".
+         minsdk 23
+        target sdk 33
+        version code 1
+        version name."1.0"
+         testInstrumenstationRunner"android.x.test.runnerAndriodJunitRunner"
+    }
+  build types {
+    releases }
+   minify Enabled flase
+  proguard files get Default proguardfield(proguard-andriod-Java,xmloptimize.txt');'produard rules.pro
+                                           }
+                                           }
+                                           complie options {
+                                             source cpatibility java. version.version_1_8
+                                             target compatibility java version.version_1_8
+                                           }
+                                           }
+                                           
